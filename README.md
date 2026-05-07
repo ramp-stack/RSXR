@@ -1,4 +1,6 @@
-![RSXR Logo](./resources/logo.png)
+<p align="center">
+  <img src="./resources/logo.png" alt="RSXR Logo" width="500"/>
+</p>
 
 # RSXR
 
